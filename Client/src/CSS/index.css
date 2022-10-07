@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  font-family: 'Open Sans';
+  font-style: bold;
+}
+
+.emailtext {
+  font-family: 'PT Sans Narrow', sans-serif;
+  flex-direction: row;
+  height: 30px;
+  margin-top: 0px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.form {
+  margin-left: 60px;
+  display: flex;
+  width: 990px;
+  margin-top: 30px;
+  flex-direction: row;
+  box-shadow: 0 0 40px #9b9c9c;
+  padding: 5px;
+  border-radius: 0px;
+  background: #9b9c9c;
+}
+.email {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 0 40px #9b9c9c;
+  padding: 10px;
+  background: #9b9c9c;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 0 40px #9b9c9c;
+  padding: 5px;
+  border-radius: 0px;
+  background: #9b9c9c;
+}
+.search {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 1rem;
+  border: none;
+  width: 600px;
+}
+.button {
+  margin-inline: 10px;
+  background: #9b9c9c;
+  border-color: #000000;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.button:hover {
+  margin-inline: 10px;
+  background: #d8d8d8;
+  border-color: #000000;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.ai {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  color: rgb(188, 196, 196);
+}
+.image {
+  margin-top: 20px;
+  width: 1000px;
+  height: 400px;
+}
+.feature {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+.cardimage {
+  width: 260px;
+  height: 250px;
+}
+
+

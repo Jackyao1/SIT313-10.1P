@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+}
+.column {
+  margin-left: 10px;
+  width: 280px;
+  flex-direction: row;
+  padding: 40px;
+}
+.star {
+  margin-top: 15px;
+}
+.name {
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
